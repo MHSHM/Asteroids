@@ -1,0 +1,9 @@
+﻿  Actor.cpp
+  Asteroid.cpp
+  Game.cpp
+  Lase.cpp
+  main.cpp
+  Ship.cpp
+  SpriteComponent.cpp
+  Generating Code...
+  main.vcxproj -> G:\Game Dev\Project 1 (Re Make)\main\Debug\main.exe
